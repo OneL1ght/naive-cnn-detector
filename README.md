@@ -10,5 +10,5 @@ This image shows the approved squares of image by model, squares containing shap
 
 ## 2. MOG substraction, detection in action
 On the video of traffic all the cars is moving. So we dont need to slide around the frame. We just find moving objects and check them by model. If detected area is a car - show rectangle on this frame. The video is played in 24 fps, but in the realtime 8-sec video was playing for almost [3 minutes](https://github.com/OneL1ght/naive-cnn-detector/blob/main/realtime_detection.mp4)
-
-![mog-detection-video](https://github.com/OneL1ght/naive-cnn-detector/blob/main/car_detection_cifar10__2.mp4)
+![video-screenshot](https://github.com/OneL1ght/naive-cnn-detector/blob/main/with_mask.png)
+The full ![video](https://github.com/OneL1ght/naive-cnn-detector/blob/main/car_detection_cifar10__2.mp4)
