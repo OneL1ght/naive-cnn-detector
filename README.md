@@ -15,3 +15,8 @@ On the video of traffic all the cars are moving. So we dont need to slide around
 ![video-screenshot](https://github.com/OneL1ght/naive-cnn-detector/blob/main/with_mask.png)
 
 The full ![video](https://github.com/OneL1ght/naive-cnn-detector/blob/main/car_detection_cifar10__2.mp4)
+
+## 3. Boost baseline: tflite + pruning + quantization
+The applied methods are shown ![here](https://github.com/OneL1ght/naive-cnn-detector/blob/main/naive-cnn__lite_quantized.ipynb)
+
+![image](https://github.com/OneL1ght/naive-cnn-detector/blob/main/lite_car_detection__allbboxs712.gif)
